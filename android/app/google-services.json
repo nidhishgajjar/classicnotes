@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "777446185938",
+    "firebase_url": "https://classic-notes-flutter-default-rtdb.firebaseio.com",
+    "project_id": "classic-notes-flutter",
+    "storage_bucket": "classic-notes-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777446185938:android:3d9155791210a592e8060b",
+        "android_client_info": {
+          "package_name": "com.scigic.classicnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777446185938-ebeh41937bhdokl58m6gtnjg79q1uum4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaQ-JO7Eds3OaIJlCGEEaQ8ytizC_uxpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777446185938-ebeh41937bhdokl58m6gtnjg79q1uum4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "777446185938-e7kdvcncr1ms9g6s8iv8g8sdfeapgau7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.scigic.classicnotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
