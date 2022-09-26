@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import '../utilities/shoe_error_dialog.dart';
 
 class LoginView extends StatefulWidget {
-  const LoginView({super.key});
+  const LoginView({Key? key}) : super(key: key);
 
   @override
   State<LoginView> createState() => _LoginViewState();
